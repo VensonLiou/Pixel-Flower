@@ -7,4 +7,4 @@
 Xcode 10.1 
 Swift 4.2
 
-<img src="README_resource/screenshot.png">
+<img src="README_resource/screenshot.png" width="332" height="590">
